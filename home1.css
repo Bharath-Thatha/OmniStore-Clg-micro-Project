@@ -1,0 +1,27 @@
+*{
+    color: white;
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav_bar{
+    height: 80px;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#896790;
+    display: flex;
+}
+.nav_bar #logo img{
+    height: 100px;
+    width: 100px;
+    padding-left: 32px;
+}
+section{
+    background-color: #bfadcc;
+    height: 100vh;
+}
+.nav_bar a{
+    font-size: 22px;
+    text-decoration: none;
+    color: white;
+}
